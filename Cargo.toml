@@ -777,7 +777,7 @@ glutton-westend-runtime = { path = "cumulus/parachains/runtimes/glutton/glutton-
 governor = { version = "0.6.0" }
 gum = { path = "polkadot/node/gum", default-features = false, package = "tracing-gum" }
 gum-proc-macro = { path = "polkadot/node/gum/proc-macro", default-features = false, package = "tracing-gum-proc-macro" }
-handlebars = { version = "5.1.0" }
+handlebars = { version = "5.1.2" }
 hash-db = { version = "0.16.0", default-features = false }
 hash256-std-hasher = { version = "0.15.2", default-features = false }
 hex = { version = "0.4.3", default-features = false }
